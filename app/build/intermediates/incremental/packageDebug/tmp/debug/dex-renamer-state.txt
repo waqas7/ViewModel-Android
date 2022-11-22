@@ -1,0 +1,7 @@
+#Mon Nov 21 19:01:33 PKT 2022
+base.1=H\:\\GenericAppsYoutube\\Image Upload\\android-upload-file-to-server-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=H\:\\GenericAppsYoutube\\Image Upload\\android-upload-file-to-server-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
